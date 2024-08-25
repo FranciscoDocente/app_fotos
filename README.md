@@ -225,7 +225,6 @@ pip install django-cors-headers
 ---
 ## Créditos
 <p>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
     <a href ="https://github.com/FranciscoDocente" style="color: white; display:flex; align-items:center; gap:7px;">
         Francisco Rueda
     </a>
