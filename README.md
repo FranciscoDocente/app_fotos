@@ -234,4 +234,5 @@ pip install django-cors-headers
 Este proyecto esta inspirado en uno que ha creado https://github.com/bugbytes-io/svelte-django-app
 
 #   a p p _ f o t o s  
+ #   a p p _ f o t o s  
  
